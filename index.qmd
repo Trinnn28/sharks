@@ -2,6 +2,11 @@
 title: "Shark Attacks"
 ---
 
-This is a Quarto website.
+The **Global Shark Attack File (GSAF)** compiles historical records of human-shark encounters from around the world dating back more than a century. Maintained by researchers to document shark interactions, it records where, when, and under what circumstances each incident took place.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Despite widespread fear and media sensationalism, shark attacks are extraordinarily rare events. Millions of people swim, surf, and recreate in coastal waters each year, yet encounters remain vanishingly uncommon—and fatal encounters even rarer. In reality, ordinary beach hazards like rip currents and drowning pose a far greater danger to human life.
+
+This project examines patterns in the historical attack records:
+
+- **[Map](map.qmd)** shows how recorded shark incidents are distributed across countries around the globe.
+- **[Trends](trends.qmd)** compares fatal and non-fatal attacks across common ocean activities like surfing, swimming, and fishing.
